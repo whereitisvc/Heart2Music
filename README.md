@@ -1,6 +1,6 @@
 ## Description
 
-"Heart 2 Music" is a system that can play proper and comfortable music according to the heart rate and the emotion of a person. It will ﬁrst gather user data by sensors and send it to cloud for analyzing user current status. Cloud will then send back the most proper music lists and play them on user speaker (future work). Basically, there are two kinds of data we would like to gather from user:
+"Heart 2 Music" is a system that recommend proper and comfortable music list according to the heart rate and the emotion of a person. It will ﬁrst gather user data by sensors and send it to cloud for analyzing user current status. Cloud will then send back the most proper music lists and play them on user speaker (future work). Basically, there are two kinds of data we would like to gather from user:
 
 1. heart rate: we will map it to a corresponding BPM (Beat per Minute) value.
 
