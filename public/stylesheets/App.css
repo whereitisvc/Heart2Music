@@ -1,0 +1,46 @@
+.App{
+    /* background-color: grey; */
+    height: 350px;
+    vertical-align: middle;
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+.Data{
+    display: inline-block;
+    /* background-color: aquamarine; */
+}
+
+.Data button{
+    width: 300px;
+    font-size: 17px;
+    cursor: pointer;
+    opacity: 0.7;
+    /* background-color: rgb(241, 241, 241); */
+    /* border-width: 2px;
+    border-color: rgb(228, 226, 226); */
+}
+
+.Data button:hover{
+    opacity: 1.0;
+}
+
+.Data .active{
+    background-color: rgb(253, 253, 121);
+    opacity: 1.0;
+}
+
+.Thumbnails{
+    /* display: inline-block; */
+    /* background-color: yellowgreen; */
+    float: right;
+    width: 900px;
+}
+
+.musicList td{
+    padding-right: 40px; 
+}
+
+.align-left{
+    text-align: left;
+}

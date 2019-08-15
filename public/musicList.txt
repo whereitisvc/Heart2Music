@@ -1,0 +1,140 @@
+1	Ariana Grande	Moonlight	204.58	pop
+2	Sak Noel	Trumpets - Radio Mix	199.83	electro
+3	Ariana Grande	Touch It	202.32	pop
+4	Drake	The Motto	201.83	hip hop
+5	Henrique & Juliano	Flor e o Beija-Flor - Ao Vivo	203.88	world/etc
+6	Fifth Harmony	That's My Girl	202.05	pop
+7	Shawn Mendes	Never Be Alone	199.84	pop
+8	A$AP Rocky	Lord Pretty Flacko Jodye 2 (LPFJ2)	207.99	hip hop
+9	Dierks Bentley	Drunk On A Plane	205.96	country
+10	Blake Shelton	Honey Bee	205.57	country
+11	The Pussycat Dolls	Buttons	210.75	pop
+12	Nick Jonas	Levels	200.33	pop
+13	Starship	Nothing's Gonna Stop Us Now	202.29	indie/folk
+14	Juan Gabriel	Hasta Que Te Conocí	204.01	world/etc
+15	Ray Charles	I've Got A Woman	199.37	r&b/jazz/blues
+16	BTS	불타오르네 FIRE	199.83	pop
+17	Yael Naim	New Soul	200.12	indie/folk
+18	The Strokes	Under Cover of Darkness	199.85	indie/folk
+19	Fall Out Boy	This Ain't A Scene, It's An Arms Race	199.94	punk
+20	Marlon Roudette	When The Beat Drops Out	217.65	electro
+1	J Balvin	Bobo	177.91	world/etc
+2	Carlos Vives	La Bicicleta	179.98	world/etc
+3	Grace	You Don't Own Me	186.25	electro
+4	Drake	Feel No Ways	193.8	hip hop
+5	Nicky Jam	El Perdón	180.0	world/etc
+6	Fetty Wap	679 (feat. Remy Boyz)	190.05	pop
+7	Ellie Goulding	Love Me Like You Do	189.43	pop
+8	Imagine Dragons	Demons	179.56	indie/folk
+9	Cosculluela	Te Busco	178.07	world/etc
+10	Wale	MY PYT	193.55	hip hop
+11	Cali Y El Dandee	Por Fin Te Encontré	179.99	world/etc
+12	Fall Out Boy	Centuries	176.08	punk
+13	Justin Bieber	I'll Show You	191.81	r&b/jazz/blues
+14	Maroon 5	Animals	189.88	pop
+15	AC/DC	Back In Black	188.39	rock
+16	Katy Perry	Roar	179.77	pop
+17	DJ Snake	You Know You Like It	196.09	indie/folk
+18	Rihanna	Desperado	188.78	pop
+19	Beyoncé	Partition	185.57	r&b/jazz/blues
+20	Fifth Harmony	Write On Me	189.88	pop
+1	Kent Jones	Don't Mind	158.78	hip hop
+2	Adele	Send My Love (To Your New Lover)	164.02	r&b/jazz/blues
+3	Twenty One Pilots	Stressed Out	169.98	indie/folk
+4	Lil Wayne	Sucker For Pain	169.02	indie/folk
+5	Adele	Hello	157.97	r&b/jazz/blues
+6	Kanye West	Famous	174.1	hip hop
+7	P!nk	Just Like Fire	162.96	pop
+8	Maluma	Borro Cassette	175.95	world/etc
+9	Maluma	El Perdedor	173.97	world/etc
+10	Future	Wicked	157.97	hip hop
+11	Bryson Tiller	Exchange	160.14	hip hop
+12	Hailee Steinfeld	Rock Bottom	157.94	pop
+13	Eminem	Lose Yourself - Soundtrack Version	171.39	r&b/jazz/blues
+14	Eminem	'Till I Collapse	171.41	pop
+15	Yandel	Encantadora	169.94	world/etc
+16	Ariana Grande	Side To Side	159.15	pop
+17	Oasis	Wonderwall - Remastered	174.3	rock
+18	Pharrell Williams	Happy - From "Despicable Me 2"	160.02	electro
+19	Farruko	Obsesionado	169.03	world/etc
+20	The Weeknd	In The Night	167.94	hip hop
+1	Zara Larsson	Never Forget You	145.99	electro
+2	Ariana Grande	Dangerous Woman	134.05	pop
+3	Drake	Pop Style	133.07	hip hop
+4	Shawn Mendes	Stitches	149.88	pop
+5	Future	Low Life	143.97	pop
+6	Drake	Hotline Bling	134.96	hip hop
+7	D.R.A.M.	Broccoli (feat. Lil Yachty)	145.99	hip hop
+8	Drake	Jumpman	142.06	hip hop
+9	Martin Garrix	In the Name of Love	133.99	pop
+10	James Bay	Let It Go	147.18	pop
+11	Anne-Marie	Alarm	146.93	pop
+12	Drake	Grammys	145.8	pop
+13	The Weeknd	The Hills	135.55	r&b/jazz/blues
+14	Drake	Still Here	133.94	r&b/jazz/blues
+15	Adele	When We Were Young	143.86	r&b/jazz/blues
+16	Jack Ü	Where Are Ü Now (with Justin Bieber)	139.43	electro
+17	Tory Lanez	LUV	138.13	hip hop
+18	Chance The Rapper	No Problem (feat. Lil Wayne & 2 Chainz)	135.02	hip hop
+19	Melanie Martinez	Pity Party	136.05	pop
+20	Madeintyo	Uber Everywhere	140.18	hip hop
+1	Justin Timberlake	CAN'T STOP THE FEELING!	113.03	r&b/jazz/blues
+2	Drake	Too Good	117.98	pop
+3	Galantis	No Money	126.01	electro
+4	Rihanna	Needed Me	110.89	pop
+5	David Guetta	This One's For You	110.17	pop
+6	Kungs	This Girl (Kungs Vs. Cookin' On 3 Burners)	121.97	r&b/jazz/blues
+7	DNCE	Cake By The Ocean	119.01	pop
+8	Jonas Blue	Fast Car - Radio Edit	113.9	electro
+9	Lukas Graham	7 Years	119.99	electro
+10	Selena Gomez	Kill Em With Kindness	120.02	pop
+11	Kiiara	Gold	113.05	pop
+12	Flume	Never Be Like You	119.25	pop
+13	Jonas Blue	Perfect Strangers	117.99	electro
+14	G-Eazy	Me, Myself & I	112.0	hip hop
+15	ZAYN	PILLOWTALK	124.94	pop
+16	Jason Derulo	If It Ain't Love	128.63	r&b/jazz/blues
+17	Jennifer Lopez	Ain't Your Mama	120.08	pop
+18	Justin Bieber	What Do You Mean?	125.02	r&b/jazz/blues
+19	Tinie Tempah	Girls Like (feat. Zara Larsson)	120.03	pop
+20	Coldplay	Adventure Of A Lifetime	112.0	indie/folk
+1	Sia	Cheap Thrills	89.98	pop
+2	Fifth Harmony	Work from Home	105.02	pop
+3	Mike Posner	I Took A Pill In Ibiza - Seeb Remix	101.97	electro
+4	Shawn Mendes	Treat You Better	82.92	pop
+5	gnash	i hate u, i love u (feat. olivia o'brien)	92.6	pop
+6	Twenty One Pilots	Ride	74.99	indie/folk
+7	Cheat Codes	Sex	102.42	electro
+8	Ariana Grande	Into You	107.99	pop
+9	Twenty One Pilots	Heathens	90.02	indie/folk
+10	Mike Perry	The Ocean	90.04	electro
+11	Major Lazer	Light It Up (feat. Nyla & Fuse ODG) - Remix	107.98	pop
+12	Drake	Controlla	93.44	r&b/jazz/blues
+13	Alan Walker	Faded	90.01	electro
+14	DJ Snake	Middle	104.98	electro
+15	Rihanna	Work	91.97	r&b/jazz/blues
+16	Charlie Puth	We Don't Talk Anymore (feat. Selena Gomez)	100.02	pop
+17	Enrique Iglesias	DUELE EL CORAZON	91.0	world/etc
+18	FRENSHIP	Capsize	92.99	pop
+19	Zara Larsson	Lush Life	98.02	pop
+20	Coldplay	Hymn For The Weekend - Seeb Remix	89.97	indie/folk
+1	Whitney Houston	I Will Always Love You	66.98	r&b/jazz/blues
+2	Evanescence	My Immortal	68.99	indie/folk
+3	Stormzy	Shut Up	70.12	hip hop
+4	Queen	We Are The Champions - Remastered 2011	64.18	rock
+5	Justin Bieber	Baby	65.02	r&b/jazz/blues
+6	John Legend	Ordinary People	67.01	r&b/jazz/blues
+7	Jesse & Joy	Ecos de amor	70.68	world/etc
+8	Jay Sean	Down	66.0	pop
+9	R. Kelly	Bump n' Grind	65.0	r&b/jazz/blues
+10	Gyptian	Hold You - Hold Yuh	66.86	world/etc
+11	Imagine Dragons	I’m So Sorry	71.4	indie/folk
+12	Flume	Tiny Cities (feat. Beck)	71.05	indie/folk
+13	Bobby McFerrin	Don't Worry Be Happy	69.28	r&b/jazz/blues
+14	Bryan Adams	Heaven	69.83	rock
+15	Max Richter	Only Questions	71.02	comedy/soundtrack/classical
+16	Joep Beving	Sleeping Lotus	65.94	mood
+17	Brian Eno	An Ending (Ascent) - 2005 Digital Remaster	67.46	indie/folk
+18	Frank Sinatra	Come Fly With Me - 1998 Digital Remaster	67.01	r&b/jazz/blues
+19	Drake	305 To My City	64.08	hip hop
+20	Jimi Hendrix	Little Wing	70.78	rock

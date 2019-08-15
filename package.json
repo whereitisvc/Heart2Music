@@ -1,0 +1,39 @@
+{
+  "name": "webapp",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "azure-event-hubs": "^0.2.1",
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2",
+    "express": "~4.14.1",
+    "moment": "^2.17.1",
+    "ws": "^2.1.0"
+  },
+  "description": "This repo contains code for a web application, which can read temperature & humidity data from IoT hub and show the real-time data in a line chart on the web page.",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization/issues"
+  },
+  "homepage": "https://github.com/Azure-Samples/web-apps-node-iot-hub-data-visualization#readme",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
